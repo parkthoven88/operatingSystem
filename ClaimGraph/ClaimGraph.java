@@ -3,8 +3,8 @@ import java.util.Scanner;
 /**
  * Write a description of class ClaimGraph here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Hyojin Park
+ *
  */
 public class ClaimGraph
 {
